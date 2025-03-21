@@ -1,0 +1,21 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.CourseApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="android:statusBarColor">@color/dark</item>
+        <item name="android:navigationBarColor">@color/dark</item>
+    </style>
+
+    <style name="Theme.CourseApp" parent="Base.Theme.CourseApp">
+        </style>
+
+    <style name="App.Custom.Indicator" parent="Widget.Material3.BottomNavigationView.ActiveIndicator">
+        <item name="android:color">#32333A</item>
+    </style>
+
+    <style name="bottom_nav_color_selector" parent="TextAppearance.AppCompat">
+        <item name="android:textColor">@color/green</item>
+    </style>
+
+</resources>

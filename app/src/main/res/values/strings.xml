@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Course App</string>
+    <string name="signin_screen_label">Вход</string>
+    <string name="signin_screen_emailText">Email</string>
+    <string name="signin_screen_passText">Пароль</string>
+    <string name="signin_screen_emailTextHint">example@gmail.com</string>
+    <string name="signin_screen_passTextHint">Введите пароль</string>
+    <string name="signin_screen_textView">Нету аккаунта?</string>
+    <string name="signin_screen_textViewSignUp">Регистрация</string>
+    <string name="signin_screen_textViewRePass">Забыл пароль</string>
+    <string name="bottomMenu_title_home">Главная</string>
+    <string name="bottomMenu_title_favorite">Избранное</string>
+    <string name="bottomMenu_title_profile">Аккаунт</string>
+    <string name="main_screen_searchTextHint">Search courses...</string>
+    <string name="main_screen_filterText">По дате добавления</string>
+</resources>
